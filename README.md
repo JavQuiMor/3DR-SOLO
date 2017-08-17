@@ -1,2 +1,2 @@
 # 3DR-SOLO
-Test script that show capabilities of the 3DR Solo
+Test scripts that show capabilities of the 3DR Solo
